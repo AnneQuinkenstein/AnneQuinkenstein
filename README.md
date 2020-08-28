@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Anne 👩🏾‍💻  </h1>
 
-<h3 align="center">A passionate Quality Assurance Engineer & soon-to-be frontend developer from Berlin</h3>
+<h2 align="center">A passionate Quality Assurance Engineer & soon-to-be frontend developer from Berlin</h2>
 
 <p align="center">	
 <a target="_blank" href="https://www.linkedin.com/in/anne-quinkenstein"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
@@ -10,9 +10,9 @@
 
 <br/>
 
-- 🔭 I’m currently working on [a game-page](https://game-night-aquin.netlify.app/)
+### - 🔭 I’m currently working on [a game-page](https://game-night-aquin.netlify.app/)
 
-- 🌱 I’m currently learning **React Animation Group**
+### - 🌱 I’m currently learning **React Animation Group**
 
 <br/>
 
