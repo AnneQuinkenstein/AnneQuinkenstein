@@ -7,7 +7,6 @@
 <a target="_blank" href="mailto:a.quinkenstein@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 
 
-![Visitor Count](https://profile-counter.glitch.me/annequinkenstein/count.svg)
 
 </p>
 <br/>
@@ -22,6 +21,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=annequinkenstein&show_icons=true" alt="annequinkenstein" /></p>
 <br/>
 
+![Visitor Count](https://profile-counter.glitch.me/annequinkenstein/count.svg)
 <br />
 
 
