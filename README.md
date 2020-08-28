@@ -4,7 +4,6 @@
 
 <h3 align="center">A passionate Quality Assurance Engineer & soon-to-be frontend developer from Berlin</h3>
 <br>
-<br>
 
 - 🔭 I’m currently working on [a game-page](https://game-night-aquin.netlify.app/)
 
