@@ -23,6 +23,7 @@
 <a href="https://codesandbox.com/https://codesandbox.io/u/annequinkenstein" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="https://codesandbox.io/u/annequinkenstein" height="30" width="30" /></a>
 </p>
 <br/>
+
 <p align="center"> 
 &nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
 &nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
@@ -36,31 +37,13 @@
 </p>
 <br/>
 
-<p align="center">  
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnneQuinkenstein&hide=html&layout=compact&theme=vue-light&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnneQuinkenstein&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true&hide_border=true" />
-</a>
-</p>
-&nbsp;
+<h1>
+    <a href="">
+        <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=AnneQuinkenstein&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnneQuinkenstein&hide=html&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
+    </a>
+</h1>
 <br/>
 
 ![Visitor Count](https://profile-counter.glitch.me/annequinkenstein/count.svg)
 <br />
 
-
-<!--
-**AnneQuinkenstein/AnneQuinkenstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<a href="https://linkedin.com/in/anne-quinkenstein" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anne-quinkenstein" height="30" width="30" /></a>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
