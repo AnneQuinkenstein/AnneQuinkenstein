@@ -17,6 +17,13 @@
 <br/>
 
 <p align="center"> 
+   <a href="https://codepen.io/https://codepen.io/aquin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/aquin" height="30" width="30" /></a>
+<a href="https://dev.to/https://dev.to/annequinkenstein" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/annequinkenstein" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14049666/aquin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/14049666/aquin" height="30" width="30" /></a>
+<a href="https://codesandbox.com/https://codesandbox.io/u/annequinkenstein" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="https://codesandbox.io/u/annequinkenstein" height="30" width="30" /></a>
+</p>
+<br/>
+<p align="center"> 
 &nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
 &nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 &nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -29,7 +36,7 @@
 </p>
 <br/>
 
-<p align="center">
+<p align="center">  
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnneQuinkenstein&hide=html&layout=compact&theme=vue-light&hide_border=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnneQuinkenstein&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true&hide_border=true" />
 </a>
