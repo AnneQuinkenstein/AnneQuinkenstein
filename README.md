@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Anne  </h1>
+<h1 align="left"> 👋 Hi, I'm Anne  </h1>
 
 <h2 align="left"> 👩🏾‍💻  A passionate Quality Assurance Engineer & Front-End Web Developer from Berlin </h2>
 
