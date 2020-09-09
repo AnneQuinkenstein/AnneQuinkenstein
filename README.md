@@ -10,9 +10,9 @@
 
 <br/>
 
-### - 🔭 I’m currently working on [a game-page](https://game-night-aquin.netlify.app/)
+###  🔭 I’m currently working on [a game-page](https://game-night-aquin.netlify.app/)
 
-### - 🌱 I’m currently learning **React Transition Group**
+###  🌱 I’m currently learning **React Transition Group**
 
 <br/>
 
