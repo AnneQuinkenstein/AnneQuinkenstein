@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Anne  </h1>
 
-<h2 align="center">A passionate Quality Assurance Engineer & Front End Developer from Berlin 👩🏾‍💻 </h2>
+<h2 align="center">A passionate Quality Assurance Engineer & Front-End Web Developer from Berlin 👩🏾‍💻 </h2>
 
 <p align="center">	
 <a target="_blank" href="https://www.linkedin.com/in/anne-quinkenstein"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
