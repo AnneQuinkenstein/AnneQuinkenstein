@@ -43,7 +43,8 @@
     </a>
 </p>
 <br/>
-
+<p align='center'>
 ![Visitor Count](https://profile-counter.glitch.me/annequinkenstein/count.svg)
+ </p>
 <br />
 
