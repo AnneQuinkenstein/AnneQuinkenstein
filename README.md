@@ -1,5 +1,5 @@
 
-<h1 align="left"> 👋 <span align='center'> Hi, I'm Anne </span> </h1>
+<h1 align="center" width='100%'> 👋 <span align='right'> Hi, I'm Anne </span> </h1>
 
 <h2 align="left"> 👩🏾‍💻  A passionate Quality Assurance Engineer & Front-End Web Developer from Berlin </h2>
 
