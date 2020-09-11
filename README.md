@@ -53,7 +53,7 @@
 <p align='center'>
 <br/>
 
-![Visitor Count](https://profile-counter.glitch.me/annequinkenstein/count.svg)
+**Visitors Count &nbsp;&nbsp;&nbsp;** ![Visitor Count](https://profile-counter.glitch.me/annequinkenstein/count.svg)
 
 <br />
  </p>
