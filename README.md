@@ -10,11 +10,12 @@
 
 <br/>
 
-* 🔭 I’m currently working on [a game-page](https://game-night-aquin.netlify.app/)
+ 🔭 I’m currently working on [a game-page](https://game-night-aquin.netlify.app/)
 
-* 🌱 I’m currently learning **React Transition Group**
+ 🌱 I’m currently learning **React Transition Group**
 
 <br/>
+
 
 <p align="center"> 
    <a href="https://codepen.io/aquin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/aquin" height="30" width="30" /></a>
@@ -23,7 +24,6 @@
 <a href="https://codesandbox.io/u/annequinkenstein" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="https://codesandbox.io/u/annequinkenstein" height="30" width="30" /></a>
 </p>
 <br/>
-
 <p align="center"> 
 &nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
 &nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
