@@ -3,18 +3,9 @@
 
 <h3 align="center"> 👩🏼‍💻   Junior Front-End Web Developer & Quality Assurance Manager from Berlin </h3>
 
-<p align="center">	
- Please contact me --> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a target="_blank" href="https://www.linkedin.com/in/anne-quinkenstein"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:a.quinkenstein@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-</p>
-
 <br/>
 Junior Front-End Developer spinning around code at night 👩‍💻 Quality Assurance Manager building dependable, possibly easy test strategies at day with some mergin conflicts  
 <br/> 
-<br/><br/>
-Junior Front-End Developer spinning around code at night 👩‍💻 Quality Assurance Manager building dependable, possibly easy test strategies at day
-
                             __________________________________________________
                             |                                                 |
                             |       <<<<<<< DAY(master)                       |
@@ -27,14 +18,17 @@ Junior Front-End Developer spinning around code at night 👩‍💻 Quality Ass
 ⏏️ Please merge my Day! I will accept incoming changes! 
  
 <br/> 
+<p align="center">	
+ Please contact me --> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a target="_blank" href="https://www.linkedin.com/in/anne-quinkenstein"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:a.quinkenstein@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+</p>
 <br/>
 
  🔭 I’m currently working on [a game-page](https://game-night-aquin.netlify.app/)
 
  🌱 I’m currently learning **React Transition Group**
  
- ⚡ story
- ☀️ and sun
  
 <br/>
 <p align="center"> 
