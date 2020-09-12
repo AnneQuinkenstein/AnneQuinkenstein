@@ -6,16 +6,19 @@
 <br/>
 Junior Front-End Developer spinning around code at night 👩‍💻 Quality Assurance Manager building dependable, possibly easy test strategies at day with some mergin conflicts  
 <br/> 
+
+```HTML
                             __________________________________________________
                             |                                                 |
                             |       <<<<<<< DAY(master)                       |
                             |       conflicted daytime from QA                |
                             |       =======                                   |
-                            |       conflicted nighttime from Web Development |  
+                            |       conflicted nighttime from Web Development | 
                             |       >>>>>>> Coding 💞                         |
                             |_________________________________________________|
+```
 
-⏏️ Please merge my Day! I will accept incoming changes! 
+<p align="center">	⏏️ Please merge my Day! I will accept incoming changes! </p>
  
 <br/> 
 <p align="center">	
