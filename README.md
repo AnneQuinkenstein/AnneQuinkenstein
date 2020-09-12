@@ -15,14 +15,14 @@ Junior Front-End Developer spinning around code at night 👩‍💻 Quality Ass
 <br/><br/>
 Junior Front-End Developer spinning around code at night 👩‍💻 Quality Assurance Manager building dependable, possibly easy test strategies at day
 
-                            _________________________________________________
-                            |                                                |
-                            |       <<<<<<< DAY(master)                      |
-                            |       conflicted daytime from QA               |
-                            |       =======                                  |
-                            |       conflicted nighttime from Web Development|  
-                            |       >>>>>>> Coding 💞                        |
-                            |________________________________________________|
+                            __________________________________________________
+                            |                                                 |
+                            |       <<<<<<< DAY(master)                       |
+                            |       conflicted daytime from QA                |
+                            |       =======                                   |
+                            |       conflicted nighttime from Web Development |  
+                            |       >>>>>>> Coding 💞                         |
+                            |_________________________________________________|
 
 ⏏️ Please merge my Day! I will accept incoming changes! 
  
