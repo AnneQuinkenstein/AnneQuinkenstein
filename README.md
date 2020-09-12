@@ -11,9 +11,9 @@ Junior Front-End Developer spinning around code at night 👩‍💻 Quality Ass
                             __________________________________________________
                             |                                                 |
                             |       <<<<<<< DAY(master)                       |
-                            |       conflicted time from QA                   |
+                            |       conflicted time for QA                   |
                             |       =======                                   |
-                            |       conflicted time from Web Development      | 
+                            |       conflicted time for Web Development      | 
                             |       >>>>>>> NIGHT (Coding 💞)                 |
                             |_________________________________________________|
 ```
