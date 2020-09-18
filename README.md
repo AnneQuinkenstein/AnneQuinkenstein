@@ -30,7 +30,7 @@
 
  🔭 I’m currently working on [a game-page](https://game-night-aquin.netlify.app/)
 
- 🌱 I’m currently learning **React Router 6*
+ 🌱 I’m currently learning **React Router 6**
  
  
 <br/>
