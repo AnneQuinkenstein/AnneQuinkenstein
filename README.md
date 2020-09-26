@@ -18,7 +18,9 @@
                             |_________________________________________________|
 ```
 
-<p align="center">	⏏️ Please merge my Day! Hire [me](mailto:a.quinkenstein@gmail.com?Subject=Hello%20Anne) 👩‍💻 I will accept incoming changes!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p> 
+⏏️ Please merge my Day! Hire [me](mailto:a.quinkenstein@gmail.com?Subject=Hello%20Anne)  👩‍💻 I will accept incoming changes!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+
+
  
 <br/> 
 <p align="center">	
