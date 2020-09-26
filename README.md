@@ -67,7 +67,7 @@
 <p align='center'>
 <br/>
 
-**Visitors Count &nbsp;&nbsp;&nbsp;** ![Visitor Count](https://profile-counter.glitch.me/annequinkenstein/count.svg)
+**Glad to see you here! 🤩 &nbsp;&nbsp;&nbsp;** ![Visitor Count](https://profile-counter.glitch.me/annequinkenstein/count.svg)
 
 <br />
  </p>
