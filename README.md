@@ -34,7 +34,7 @@
 
  🌱 I’m currently learning **React Router 6**
  
-⚡ and having fun with <a href="https://www.nadineredlich.de/page/18" target="_blank"> this </a> 
+⚡ and also having fun with <a href="https://www.nadineredlich.de/page/18" target="_blank"> this </a> 
  
  
 <br/>
