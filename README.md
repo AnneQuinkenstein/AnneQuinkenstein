@@ -4,7 +4,7 @@
 <h3 align="center">  Junior Front-End Web Developer from Berlin </h3>
 
 <br/>
-👩🏼‍💻  Junior Front-End Developer spinning around code at night 👩‍💻 Quality Assurance Manager building dependable agile and other test strategies at day 💻 resulting in some mergin conflicts  
+👩🏼‍💻  Junior Front-End Developer spinning around code at night 👩‍💻 Quality Assurance Manager building dependable test strategies at day 💻 resulting in some mergin conflicts  
 <br/> 
 
 ```HTML
