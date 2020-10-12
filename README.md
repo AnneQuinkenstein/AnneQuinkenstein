@@ -59,8 +59,8 @@
 
 <br/>
 
-<h3 align="center">  🟣 Latest blog posts  🟣 </h3>
-######
+   
+#### 🟣 Latest blog posts  🟣
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
