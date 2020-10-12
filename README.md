@@ -60,6 +60,7 @@
 <br/>
 
 <h3 align="center">  🟣 Latest blog posts  🟣 </h3>
+######
 <!-- BLOG-POST-LIST:START -->
 - [Ideas for a Weather App with React](https://dev.to/annequinkenstein/ideas-for-a-weather-app-with-react-ld7)
 - [Continuously deploy React Project on Netlify by Git repo & solved impediments](https://dev.to/annequinkenstein/continuously-deploy-a-react-project-by-connecting-a-git-repo-5of)
@@ -71,7 +72,7 @@
 <br/>
 <br/>
 
-<p align="center"> Some other lessons learned &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center"> Some other lessons learned -> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <!-- <a href="https://dev.to/annequinkenstein" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/annequinkenstein" height="30" width="30" /></a> -->
 <a href="https://codesandbox.io/u/annequinkenstein" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="https://codesandbox.io/u/annequinkenstein" height="30" width="30" /></a>
 <a href="https://codepen.io/aquin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/aquin" height="30" width="30" /></a>
