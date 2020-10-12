@@ -62,7 +62,7 @@
  
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
- <a href="https://dev.to/annequinkenstein" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/annequinkenstein" height="20" width="20" /></a> more blog posts...
+ <a href="https://dev.to/annequinkenstein" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/annequinkenstein" height="20" width="20" /></a> more blog posts...
 <br/>
 <br/>
 
