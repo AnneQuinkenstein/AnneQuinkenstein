@@ -58,11 +58,11 @@
 
 <br/>
 
-### 🟣 Latest blog posts 🟣
-
+### 📕 Latest Blog Posts
+ 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
+➡️ more blog posts... <a href="https://dev.to/annequinkenstein" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/annequinkenstein" height="30" width="30" /></a>
 <br/>
 <br/>
 
