@@ -61,6 +61,11 @@
 ### 📕 Latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
+- [Ideas for a Weather App with React](https://dev.to/annequinkenstein/ideas-for-a-weather-app-with-react-ld7)
+- [Continuously deploy a React Project on Netlify using your Git Repo (incl hidden API Key & fixing React Router)](https://dev.to/annequinkenstein/continuously-deploy-a-react-project-by-connecting-a-git-repo-5of)
+- [How to create a Logo & use it as Favicon!](https://dev.to/annequinkenstein/how-to-create-a-logo-use-it-as-favicon-1cod)
+- [TIL- Bootstrap - The Grid](https://dev.to/annequinkenstein/til-bootstrap-4k0l)
+- [Adding fonts to React js app](https://dev.to/annequinkenstein/adding-fonts-to-create-react-app-3ed7)
 <!-- BLOG-POST-LIST:END -->
  <a href="https://dev.to/annequinkenstein" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/annequinkenstein" height="20" width="20" /></a> [more blog posts...](https://dev.to/annequinkenstein)
 <br/>
