@@ -17,7 +17,7 @@
                             |_________________________________________________|
 ```
 
-⏏️ Please merge my Day! [I will accept ](mailto:a.quinkenstein@gmail.com?Subject=Hello_from_Github)incoming changes!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+⏏️ Merge my Day! [I will accept ](mailto:a.quinkenstein@gmail.com?Subject=Hello_from_Github)incoming changes!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br/> 
 <p align="center">	
