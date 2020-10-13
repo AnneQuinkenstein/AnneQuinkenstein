@@ -20,13 +20,20 @@
 ⏏️ Merge my Day! [I will accept ](mailto:a.quinkenstein@gmail.com?Subject=Hello_from_Github)incoming changes!&nbsp;&nbsp; Don't hesitate to get in touch:   <a href="mailto:a.quinkenstein@gmail.com"><img src="https://image.flaticon.com/icons/svg/725/725643.svg" height="20" width="20" /></a>
   <a href="https://linkedin.com/in/AnneQuinkenstein"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20"     width="20" /></a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <!--
+ <br/> 
+<p align="center">	
+ Get in touch -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a target="_blank" href="https://www.linkedin.com/in/anne-quinkenstein"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:a.quinkenstein@gmail.com?Subject=Hello_from_Github"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+</p>
+<br/>
+--!>
 
-
-🔭 I’m currently working on [a game-page](https://game-night-aquin.netlify.app/)
-
-🌱 I’m currently learning **React Router 6**
-
-⚡ and also laughing at <a href="https://www.nadineredlich.de/page/18" target="_blank"> this </a>
+<!--🔭 I’m currently working on [a game-page](https://game-night-aquin.netlify.app/)--!>
+<!--🌱 I’m currently learning **React Router 6**--!>
+<!--⚡ and also laughing at <a href="https://www.nadineredlich.de/page/18" target="_blank"> this </a>
+--!>
 
 <br/>
 <p align="center"> 
@@ -81,12 +88,4 @@ Glad to see you here! &nbsp;&nbsp;&nbsp; ![Visitor Count](https://profile-counte
 <br />
  </p>
  
- <!--
- <br/> 
-<p align="center">	
- Get in touch -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a target="_blank" href="https://www.linkedin.com/in/anne-quinkenstein"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:a.quinkenstein@gmail.com?Subject=Hello_from_Github"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-</p>
-<br/>
---!>
+
