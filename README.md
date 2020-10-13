@@ -17,8 +17,8 @@
                             |_________________________________________________|
 ```
 
-⏏️ Merge my Day! [I will accept ](mailto:a.quinkenstein@gmail.com?Subject=Hello_from_Github)incoming changes!&nbsp;&nbsp; Don't hesitate to get in touch:   <a href="mailto:a.quinkenstein@gmail.com"><img src="https://image.flaticon.com/icons/svg/725/725643.svg" height="20" width="20" /></a>
-  <a href="https://linkedin.com/in/AnneQuinkenstein"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20"     width="20" /></a> 
+⏏️ Merge my Day! [I will accept ](mailto:a.quinkenstein@gmail.com?Subject=Hello_from_Github)incoming changes!&nbsp; Don't hesitate to get in touch: &nbsp; &nbsp;<a href="mailto:a.quinkenstein@gmail.com"><img src="https://image.flaticon.com/icons/svg/725/725643.svg" height="15" width="15" /></a>
+  <a href="https://linkedin.com/in/AnneQuinkenstein"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="15" width="15" /></a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <!--
  <br/> 
