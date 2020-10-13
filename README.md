@@ -60,7 +60,7 @@
 
 <br/>
 
-### 📕 Latest Blog Posts
+### 📕 My latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
 - [Javascript Animation on Background-Pics in React](https://dev.to/annequinkenstein/javascript-animation-on-background-pics-in-react-20a6)
