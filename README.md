@@ -63,8 +63,8 @@
 ### 📕 My latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
-- [Basis SQL - SELECT Information](https://dev.to/annequinkenstein/basis-sql-select-information-2f7a)
-- [Basics of SQL - Create Database](https://dev.to/annequinkenstein/basics-of-sql-create-database-4k1o)
+- [Basics SQL - SELECT Information](https://dev.to/annequinkenstein/basis-sql-select-information-2f7a)
+- [Basics SQL - CREATE Database](https://dev.to/annequinkenstein/basics-of-sql-create-database-4k1o)
 - [Javascript Animation on Background-Pics in React](https://dev.to/annequinkenstein/javascript-animation-on-background-pics-in-react-20a6)
 - [Ideas for a Weather App with React](https://dev.to/annequinkenstein/ideas-for-a-weather-app-with-react-ld7)
 - [Continuously deploy a React Project on Netlify using your Git Repo (incl hidden API Key & fixing React Router)](https://dev.to/annequinkenstein/continuously-deploy-a-react-project-by-connecting-a-git-repo-5of)
