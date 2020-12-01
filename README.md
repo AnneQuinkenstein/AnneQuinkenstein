@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 I'm Anne </h1>
+<h1 align="center"> 👋 Hi, I'm Anne </h1>
 
 <h3 align="center">  Junior Front-End Web Developer & Quality Assurance Manager from Berlin </h3>
 
