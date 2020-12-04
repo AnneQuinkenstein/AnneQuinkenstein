@@ -85,7 +85,7 @@
 <p align='left'>
 <br/>
 
- &nbsp;&nbsp;&nbsp; ![Visitor Count](https://profile-counter.glitch.me/annequinkenstein/count.svg)  Glad to see you here!
+ &nbsp;&nbsp;&nbsp; ![Visitor Count](https://profile-counter.glitch.me/annequinkenstein/count.svg)  &nbsp;&nbsp;&nbsp; Glad to see you here!
 
 <br />
  </p>
