@@ -18,7 +18,7 @@
 ```
 
 ⏏️ Merge my Day! [I will accept ](https://anne-quinkenstein.de)incoming changes!&nbsp; Don't hesitate to get in touch: &nbsp;<a href="mailto:a.quinkenstein@gmail.com?Subject=Hello_from_Github"><img src="https://image.flaticon.com/icons/svg/725/725643.svg" height="15" width="15" /></a>
-  <a href="https://linkedin.com/in/AnneQuinkenstein"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="15" width="15" /></a> 
+  <a href="www.linkedin.com/in/anne-quinkenstein"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="15" width="15" /></a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <!--
  <br/> 
