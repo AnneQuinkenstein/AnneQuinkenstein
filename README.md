@@ -62,7 +62,7 @@
 - [Ideas for a Weather App with React](https://dev.to/annequinkenstein/ideas-for-a-weather-app-with-react-ld7)
 - [Continuously deploy a React Project on Netlify using your Git Repo (incl hidden API Key & fixing React Router)](https://dev.to/annequinkenstein/continuously-deploy-a-react-project-by-connecting-a-git-repo-5of)
 <!-- BLOG-POST-LIST:END -->
- <a href="https://dev.to/annequinkenstein" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/annequinkenstein" height="20" width="20" /></a> [more blog posts...](https://dev.to/annequinkenstein)
+ <a href="https://dev.to/annequinkenstein" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/annequinkenstein" height="20" width="20" /></a> [more blog posts ...](https://dev.to/annequinkenstein)
 <br/>
 <br/>
 
