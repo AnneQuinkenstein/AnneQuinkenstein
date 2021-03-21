@@ -56,7 +56,7 @@
 ### 📕 My latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
-- [TestNG Java](https://dev.to/annequinkenstein/testng-java-3512)
+- [TestNG Java Cheatsheet](https://dev.to/annequinkenstein/testng-java-3512)
 - [Selenium Java Dropdowns & Checkboxes](https://dev.to/annequinkenstein/selenium-java-dropdown-menu-4hgj)
 - [Selenium Java Cheat Sheet](https://dev.to/annequinkenstein/selenium-java-cheat-sheet-2iio)
 - [Basics SQL - SELECT Information](https://dev.to/annequinkenstein/basis-sql-select-information-2f7a)
