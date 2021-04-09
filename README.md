@@ -56,7 +56,7 @@
 ### 📕 My latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
-- [Selenium Java: Handle Alerts & Popups, IFrames, Switch to Windows](https://dev.to/annequinkenstein/selenium-java-alerts-and-popups-45dh)
+- [Selenium Java: Handle Alerts & Popups, IFrames, Switch Windows](https://dev.to/annequinkenstein/selenium-java-alerts-and-popups-45dh)
 - [Getting started with TestNG Java Framework](https://dev.to/annequinkenstein/testng-java-3512)
 - [Selenium Java Dropdowns & Checkboxes](https://dev.to/annequinkenstein/selenium-java-dropdown-menu-4hgj)
 - [Selenium Java Cheat Sheet](https://dev.to/annequinkenstein/selenium-java-cheat-sheet-2iio)
