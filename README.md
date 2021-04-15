@@ -56,7 +56,7 @@
 ### 📕 My latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
-- [Selenium Java Waits](https://dev.to/annequinkenstein/selenium-java-waits-22b3)
+- [Selenium Java (Implicit & Explicit) Waits](https://dev.to/annequinkenstein/selenium-java-waits-22b3)
 - [Selenium Java: Handle Alerts & Popups, IFrames, Switch Windows](https://dev.to/annequinkenstein/selenium-java-alerts-and-popups-45dh)
 - [Getting started with TestNG Java Framework](https://dev.to/annequinkenstein/testng-java-3512)
 - [Selenium Java Dropdowns & Checkboxes](https://dev.to/annequinkenstein/selenium-java-dropdown-menu-4hgj)
