@@ -56,11 +56,11 @@
 ### 📕 My latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
+- [Maven Build Tool (for Selenium Java)](https://dev.to/annequinkenstein/maven-gi8)
 - [Selenium Java (Implicit & Explicit) Waits](https://dev.to/annequinkenstein/selenium-java-waits-22b3)
 - [Selenium Java: Handle Alerts & Popups, IFrames, Switch Windows](https://dev.to/annequinkenstein/selenium-java-alerts-and-popups-45dh)
 - [Getting started with TestNG Java Framework](https://dev.to/annequinkenstein/testng-java-3512)
 - [Selenium Java Dropdowns, Checkboxes, Calendar, Autocomplete](https://dev.to/annequinkenstein/selenium-java-dropdown-menu-4hgj)
-- [Selenium Java Cheat Sheet](https://dev.to/annequinkenstein/selenium-java-cheat-sheet-2iio)
 <!-- BLOG-POST-LIST:END -->
  <a href="https://dev.to/annequinkenstein" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/annequinkenstein" height="20" width="20" /></a> [more blog posts ...](https://dev.to/annequinkenstein)
 <br/>
