@@ -56,11 +56,11 @@
 ### 📕 My latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
+- [Cucumber BDD Framework](https://dev.to/annequinkenstein/cucumber-bdd-framework-2n4o)
 - [Selenium - Design a Framework: Page Object Pattern](https://dev.to/annequinkenstein/selenium-design-a-framework-page-object-pattern-4g55)
 - [Maven Build Tool &lpar;for Selenium Java&rpar;](https://dev.to/annequinkenstein/maven-gi8)
 - [Selenium Java &lpar;Implicit &amp; Explicit&rpar; Waits](https://dev.to/annequinkenstein/selenium-java-waits-22b3)
 - [Selenium Java: Handle Alerts &amp; Popups, IFrames, Switch Windows](https://dev.to/annequinkenstein/selenium-java-alerts-and-popups-45dh)
-- [Getting started with TestNG Java Framework](https://dev.to/annequinkenstein/testng-java-3512)
 <!-- BLOG-POST-LIST:END -->
  <a href="https://dev.to/annequinkenstein" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/annequinkenstein" height="20" width="20" /></a> [more blog posts ...](https://dev.to/annequinkenstein)
 <br/>
