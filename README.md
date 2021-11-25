@@ -56,7 +56,7 @@
 ### 📕 My latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
-- [Grundkomponenten eines Computers](https://dev.to/annequinkenstein/grundkomponenten-eines-computers-mg2)
+- [Back to the basics: Grundkomponenten eines Computers](https://dev.to/annequinkenstein/grundkomponenten-eines-computers-mg2)
 - [Cheat Sheet Linux Terminal](https://dev.to/annequinkenstein/cheat-sheet-linux-terminal-1152)
 - [Cucumber BDD Framework](https://dev.to/annequinkenstein/cucumber-bdd-framework-2n4o)
 - [Selenium - Design a Framework: Page Object Pattern](https://dev.to/annequinkenstein/selenium-design-a-framework-page-object-pattern-4g55)
