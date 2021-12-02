@@ -56,11 +56,11 @@
 ### 📕 My latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
+- [Algorithmen und Datenstrukturen](https://dev.to/annequinkenstein/algorithmen-und-datenstrukturen-458p)
 - [small Google Search Sheet Cheat](https://dev.to/annequinkenstein/small-google-search-sheet-cheat-3gk5)
 - [Graphen Cheat Sheet](https://dev.to/annequinkenstein/graphen-cheat-sheet-48j9)
 - [Back to the basics: Grundkomponenten eines Computers](https://dev.to/annequinkenstein/grundkomponenten-eines-computers-mg2)
 - [Cheat Sheet Linux Terminal](https://dev.to/annequinkenstein/cheat-sheet-linux-terminal-1152)
-- [Cucumber BDD Framework](https://dev.to/annequinkenstein/cucumber-bdd-framework-2n4o)
 <!-- BLOG-POST-LIST:END -->
  <a href="https://dev.to/annequinkenstein" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/annequinkenstein" height="20" width="20" /></a> [more blog posts ...](https://dev.to/annequinkenstein)
 <br/>
