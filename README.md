@@ -1,9 +1,9 @@
 <h1 align="center"> 🤝 Hi, I'm Anne </h1>
 
-<h3 align="center">  Junior Front-End Web Developer & Quality Assurance Manager from Berlin </h3>
+<h3 align="center">  Quality Assurance Manager from Berlin </h3>
 
 <br/>
-👩🏼‍💻  Junior Front-End Developer spinning around code 👩‍💻 Quality Assurance Manager building test strategies 💻 resulting in some mergin conflicts  
+👩🏼‍💻  spinning around code 👩‍💻 building test strategies 💻 resulting in some mergin conflicts  
 <br/>
 
 ```HTML
