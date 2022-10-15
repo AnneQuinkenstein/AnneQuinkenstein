@@ -9,11 +9,11 @@
 ```HTML
                             __________________________________________________
                             |                                                 |
-                            |       <<<<<<< DAY(master)                       |
+                            |       <<<<<<< TIME(master)                       |
                             |       conflicted time for QA                   |
                             |       =======                                   |
-                            |       conflicted time for Web Development      |
-                            |       >>>>>>> NIGHT(Coding 💞)                 |
+                            |       conflicted time for Development      |
+                            |       >>>>>>> TIME(Coding 💞)                 |
                             |_________________________________________________|
 ```
 
