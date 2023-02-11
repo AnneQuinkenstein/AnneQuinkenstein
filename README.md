@@ -3,7 +3,7 @@
 <h3 align="center">  Quality Assurance Manager from Berlin </h3>
 
 <br/>
-👩🏼‍💻  spinning around code 👩‍💻 building test strategies 💻 resulting in some mergin conflicts  
+👩🏼‍💻  with a heart for code 👩‍💻 building test strategies 💻 resulting in some mergin conflicts  
 <br/>
 
 ```HTML
@@ -12,7 +12,7 @@
                             |       <<<<<<< TIME(master)                       |
                             |       conflicted time for QA                   |
                             |       =======                                   |
-                            |       conflicted time for Development      |
+                            |       conflicted time for Coding      |
                             |       >>>>>>> TIME(Coding 💞)                 |
                             |_________________________________________________|
 ```
