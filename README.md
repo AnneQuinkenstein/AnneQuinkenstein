@@ -1,6 +1,6 @@
 <h1 align="center"> 🤝 Hi, I'm Anne </h1>
 
-<h3 align="center">  Quality Assurance Manager from Berlin </h3>
+<h3 align="center"> Test Automation Engineer from Berlin </h3>
 
 <br/>
 👩🏼‍💻  with a heart for code 👩‍💻 building test strategies 💻 resulting in some mergin conflicts  
