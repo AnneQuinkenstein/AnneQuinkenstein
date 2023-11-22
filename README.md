@@ -8,7 +8,8 @@
 <a href="https://anne-quinkenstein.de" target="blank"> <img src="https://i.imgur.com/lXt5h4n.png" height="20" width="20" /></a> 
 <a href="https://www.linkedin.com/in/anne-quinkenstein" target="blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="15" width="15" /></a> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+<br/>
+<br/>
 <!--🔭 I’m currently working on [a game-page](https://game-night-aquin.netlify.app/)--!>
 <!--🌱 I’m currently learning **React Router 654**--!>
 <!--⚡ and also laughing at <a href="https://www.nadineredlich.de/page/18" target="_blank"> this </a>
