@@ -6,17 +6,6 @@
 👩🏼‍💻  with a heart for code 👩‍💻 and testing 💻 
 <br/>
 
-```HTML
-                            __________________________________________________
-                            |                                                 |
-                            |       <<<<<<< TIME(master)                       |
-                            |            |
-                            |       =======                                   |
-                            |         |
-                            |       >>>>>>> TIME(Coding )                 |
-                            |_________________________________________________|
-```
-
 ⏏️ Merge my Day! [💞](https://anne-quinkenstein.de) Don't hesitate to get in touch: &nbsp;
 <a href="mailto:a.quinkenstein@gmail.com?Subject=Hello_from_Github"><img src="https://image.flaticon.com/icons/svg/725/725643.svg" height="15" width="15" /></a>
 <a href="https://anne-quinkenstein.de" target="blank"> <img src="https://i.imgur.com/lXt5h4n.png" height="20" width="20" /></a> 
