@@ -55,11 +55,11 @@
 ### 📕 My latest Blog Posts -->
  
 <!-- BLOG-POST-LIST:START -->
-- [Building a Selenium Framework](https://dev.to/annequinkenstein/building-a-selenium-framework-8n6)
-- [JUnit 5](https://dev.to/annequinkenstein/junit-5-52bf)
-- [Some Online Coding Games to Build Your Programming Skills](https://dev.to/annequinkenstein/games-to-learn-coding-3o9k)
-- [Algorithmen und Datenstrukturen](https://dev.to/annequinkenstein/algorithmen-und-datenstrukturen-458p)
-- [Tiny Google Search Cheat Sheet](https://dev.to/annequinkenstein/small-google-search-sheet-cheat-3gk5) 
+<!--- [Building a Selenium Framework](https://dev.to/annequinkenstein/building-a-selenium-framework-8n6)-->
+<!--- [JUnit 5](https://dev.to/annequinkenstein/junit-5-52bf)-->
+<!--- [Some Online Coding Games to Build Your Programming Skills](https://dev.to/annequinkenstein/games-to-learn-coding-3o9k)-->
+<!--- [Algorithmen und Datenstrukturen](https://dev.to/annequinkenstein/algorithmen-und-datenstrukturen-458p)-->
+<!--- [Tiny Google Search Cheat Sheet](https://dev.to/annequinkenstein/small-google-search-sheet-cheat-3gk5) -->
 <!-- BLOG-POST-LIST:END -->
  <a href="https://dev.to/annequinkenstein" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/annequinkenstein" height="20" width="20" /></a> [more blog posts ...](https://dev.to/annequinkenstein)
 <br/>
@@ -67,13 +67,12 @@
 
 
 
-<p align="left"> Some other lessons learned -> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- <p align="left"> Some other lessons learned -> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 <!-- <a href="https://dev.to/annequinkenstein" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/annequinkenstein" height="30" width="30" /></a> -->
-<a href="https://codesandbox.io/u/annequinkenstein" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="https://codesandbox.io/u/annequinkenstein" height="30" width="30" /></a>
-<a href="https://codepen.io/aquin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/aquin" height="30" width="30" /></a>
-<!-- <a href="https://stackoverflow.com/users/14049666/aquin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/14049666/aquin" height="30" width="30" /></a> 
+<!--<a href="https://codesandbox.io/u/annequinkenstein" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="https://codesandbox.io/u/annequinkenstein" height="30" width="30" /></a>-->
+<!--<a href="https://codepen.io/aquin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/aquin" height="30" width="30" /></a>
+<!-- <a href="https://stackoverflow.com/users/14049666/aquin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/14049666/aquin" height="30" width="30" /></a> -->
 </p> 
--->
 
 <p align='left'>
 <br/>
