@@ -3,7 +3,7 @@
 <h3 align="center"> Java Software Engineer from Berlin </h3>
 
 <br/>
-👩🏼‍💻  with a heart for code 👩‍💻 and testing 💻 . Don't hesitate to get in touch: &nbsp;
+<!--👩🏼‍💻  with a heart for code 👩‍💻 and testing 💻 . Don't hesitate to get in touch: &nbsp;--!>
 <a href="mailto:a.quinkenstein@gmail.com?Subject=Hello_from_Github"><img src="https://image.flaticon.com/icons/svg/725/725643.svg" height="15" width="15" /></a>
 <a href="https://anne-quinkenstein.de" target="blank"> <img src="https://i.imgur.com/lXt5h4n.png" height="20" width="20" /></a> 
 <a href="https://www.linkedin.com/in/anne-quinkenstein" target="blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="15" width="15" /></a> 
@@ -51,7 +51,7 @@
 </p>
 
 <br/>
-
+<!--
 ### 📕 My latest Blog Posts
  
 <!-- BLOG-POST-LIST:START -->
@@ -64,6 +64,7 @@
  <a href="https://dev.to/annequinkenstein" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/annequinkenstein" height="20" width="20" /></a> [more blog posts ...](https://dev.to/annequinkenstein)
 <br/>
 <br/>
+-->
 
 
 <p align="left"> Some other lessons learned -> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
